@@ -1,5 +1,4 @@
-# Bac-A-Sable-Ryan
-# 🏗️ Sandbox - Bac à Sable
+# Bac-A-Sable-Ryan 🏗️
 
 Bienvenue dans **Sandbox**, un espace de développement libre où vous pouvez expérimenter, tester du code, et explorer de nouvelles technologies sans contrainte ! 🚀
 
